@@ -2,7 +2,7 @@
 ## Week 1 Activities
 
 <ol>
-  <il>Introduction</il>
+  <li>Introduction</li>
   <li>Week-1 Discussion</li>
   <li>In Class Activities</li>
   <li>Week-1 Assignment</li>
